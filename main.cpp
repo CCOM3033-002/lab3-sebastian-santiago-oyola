@@ -2,6 +2,9 @@
 #include <cstdlib> // libreria nueva requerida para numero aleatorio
 using namespace std;
 
+// Sebastian Santiago Oyola
+//# de Estudiante: 801-23-9121
+
 int main(){
     srand(time(0)); // inicializa el numero aleatorio
 
